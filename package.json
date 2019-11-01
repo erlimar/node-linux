@@ -18,7 +18,9 @@
   },
   "main": "lib/node-linux.js",
   "os": [
-    "linux"
+    "linux",
+    "win32",
+    "darwin"
   ],
   "dependencies": {
     "optimist": "~0.6.1",
